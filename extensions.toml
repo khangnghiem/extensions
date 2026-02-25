@@ -1097,7 +1097,7 @@ submodule = "extensions/fantasticons-icons-theme"
 version = "1.0.0"
 
 [fast-draft]
-submodule = "extensions/fd"
+submodule = "extensions/fast-draft"
 path = "editors/zed"
 version = "0.1.0"
 

@@ -1082,13 +1082,13 @@
 	path = extensions/fantasticons-icons-theme
 	url = https://github.com/caiolandgraf/fantasticons-zed.git
 
+[submodule "extensions/fast-draft"]
+	path = extensions/fast-draft
+	url = https://github.com/khangnghiem/fast-draft.git
+
 [submodule "extensions/fastapi-snippets"]
 	path = extensions/fastapi-snippets
 	url = https://github.com/NarmadaWeb/fastapi-snippets-zed.git
-
-[submodule "extensions/fd"]
-	path = extensions/fd
-	url = https://github.com/khangnghiem/fast-draft.git
 
 [submodule "extensions/fedaykin-themes"]
 	path = extensions/fedaykin-themes
