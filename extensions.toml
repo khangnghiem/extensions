@@ -1096,14 +1096,14 @@ version = "0.56.3"
 submodule = "extensions/fantasticons-icons-theme"
 version = "1.0.0"
 
-[fastapi-snippets]
-submodule = "extensions/fastapi-snippets"
-version = "0.2.0"
-
-[fd]
+[fast-draft]
 submodule = "extensions/fd"
 path = "editors/zed"
 version = "0.1.0"
+
+[fastapi-snippets]
+submodule = "extensions/fastapi-snippets"
+version = "0.2.0"
 
 [fedaykin-themes]
 submodule = "extensions/fedaykin-themes"
