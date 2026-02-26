@@ -833,7 +833,7 @@ version = "2.0.0"
 
 [dark-glass-theme]
 submodule = "extensions/dark-glass-theme"
-version = "0.1.0"
+version = "0.3.0"
 
 [dark-material-dracula]
 submodule = "extensions/dark-material-dracula"
@@ -1601,7 +1601,7 @@ version = "0.1.0"
 
 [htmx-lsp]
 submodule = "extensions/htmx-lsp"
-version = "1.0.0"
+version = "1.0.1"
 
 [http]
 submodule = "extensions/http"
@@ -2633,6 +2633,10 @@ version = "0.0.1"
 [oat]
 submodule = "extensions/oat"
 version = "0.0.4"
+
+[objective-c]
+submodule = "extensions/objective-c"
+version = "1.0.0"
 
 [objectscript]
 submodule = "extensions/objectscript"
